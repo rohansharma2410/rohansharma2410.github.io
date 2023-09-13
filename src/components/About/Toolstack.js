@@ -6,7 +6,7 @@ import {
  
   SiMysql,
   SiGit,
-  SiPytorch,
+  
   SiPycharm,
 } from "react-icons/si";
 
